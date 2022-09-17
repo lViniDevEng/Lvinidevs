@@ -7,7 +7,7 @@
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
  </div>
  <div>
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+ <a href = "mailto:lucasdvini01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 <footer>
 <img src="https://i.pinimg.com/originals/5a/0e/b1/5a0eb19d32b65e7410e96337b7b2b28c.gif" width="200" height="200">
