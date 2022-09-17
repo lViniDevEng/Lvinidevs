@@ -8,6 +8,7 @@
  </div>
  <div>
  <a href = "mailto:lucasdvini01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-vinicius-ds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
 <footer>
 <img src="https://i.pinimg.com/originals/5a/0e/b1/5a0eb19d32b65e7410e96337b7b2b28c.gif" width="200" height="200">
