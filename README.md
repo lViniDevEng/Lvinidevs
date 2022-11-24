@@ -1,4 +1,5 @@
 ### Hellow guys🖐! My name is Lucas.
+<div><div>
 <h3>I am a student of the systems analysis and development course at UMJ 💻📖</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=lvinidevs&theme=merko&show_icons=true"/>
 <div>
@@ -6,6 +7,8 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
   <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/fluency/48/null/node-js.png"/>
  </div>
  <div>
  <a href = "mailto:lucasdvini01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
