@@ -1,6 +1,6 @@
 
 
-<h3>I am a student of the systems analysis and development course at UMJ 💻📖</h3>
+<h3>Hi🖐! My name Lucas, i'm 21 years old, i'm an enthusiast with technology, music and i like to play sports.</h3>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lvinidevs&show_icons=true&count_private=true&hide_border=true&title_color=708090&icon_color=00FFFFtext_color=708090&bg_color=0d1117" alt="Lvinidevs github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lvinidevs&layout=compact&hide_border=true&title_color=708090&text_color=708090&bg_color=0d1117"/>
