@@ -1,6 +1,6 @@
 
 
-<h3>Hi🖐! My name Lucas, i'm 21 years old, i'm an enthusiast with technology, music and i like to play sports.</h3>
+<div><img src="https://i.postimg.cc/44hgMw69/APT1.gif"  height="500"></div>
 <h3>Main skills:</h3>
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
