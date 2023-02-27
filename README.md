@@ -1,6 +1,6 @@
 
 
-<div><img src="https://i.postimg.cc/NMDpC3Nc/Hello-My-name-is-Lucas.gif  height="400"></div>
+<div><img src="https://i.postimg.cc/NMDpC3Nc/Hello-My-name-is-Lucas.gif  height="250"></div>
 <h3>Main skills:</h3>
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
