@@ -3,11 +3,11 @@
 <div><img src="https://i.postimg.cc/NMDpC3Nc/Hello-My-name-is-Lucas.gif  height="250"></div>
 <h3>Main skills:</h3>
 <div align="center">
+  <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
   <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/fluency/48/null/node-js.png"/>
   <img src="https://img.icons8.com/color/48/null/power-bi.png"/>
  </div>
