@@ -13,14 +13,13 @@
  <h3>Studying in this moment:</h3>
  ->Data Structure:
  <div>
- <img src="https://img.icons8.com/color/48/null/power-bi.png"/>
- <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
+ <img src="https://img.icons8.com/ios-filled/50/228BE6/c.png"/>
+ <img src="https://img.icons8.com/ios-filled/50/228BE6/c-plus-plus-logo.png"/>
  </div>
  ->Web Development(Front-end jr):
  <div>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
+  <img src="https://img.icons8.com/color/48/null/bootstrap.png"/>
+  <img src="https://img.icons8.com/color/48/null/react-native.png"/>
   </div>
  <h3>Connect with me:</h3>
  <div align="center">
