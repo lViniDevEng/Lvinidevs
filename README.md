@@ -11,7 +11,6 @@
   <img src="https://img.icons8.com/color/48/null/power-bi.png"/>
  </div>
  <h3>Studying in this moment:</h3>
- ->Data Structure:
  <div>
  <img src="https://img.icons8.com/ios-filled/50/228BE6/c.png"/>
  <img src="https://img.icons8.com/ios-filled/50/228BE6/c-plus-plus-logo.png"/>
