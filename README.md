@@ -20,6 +20,7 @@
  <div>
   <img src="https://img.icons8.com/color/48/null/bootstrap.png"/>
   <img src="https://img.icons8.com/color/48/null/react-native.png"/>
+  <img src="https://img.icons8.com/fluency/48/null/node-js.png"/>
   </div>
  <h3>Connect with me:</h3>
  <div align="center">
