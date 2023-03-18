@@ -13,7 +13,8 @@
  <h3>Studying in this moment:</h3>
  <div>
  <img src="https://img.icons8.com/ios-filled/50/228BE6/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/fluency/48/null/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/64/null/java-coffee-cup-logo--v1.png"/>
+  <img src="https://img.icons8.com/fluency/48/null/r-project.png"/>
  </div>
  ->Web Development(Front-end jr):
  <div>
