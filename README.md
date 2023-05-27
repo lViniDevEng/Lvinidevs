@@ -2,26 +2,20 @@
 
 <div><img src="https://i.postimg.cc/90hJM0ng/Hello-My-name-is-Lucas-1.giF  height="250"></div>
 <h3>Main skills:</h3>
-<div align="center">
+<div align="start">
   <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
   <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
-  <img src="https://img.icons8.com/color/48/null/power-bi.png"/>
  </div>
  <h3>Studying in this moment:</h3>
  <div>
  <img src="https://img.icons8.com/ios-filled/50/228BE6/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/color/64/null/java-coffee-cup-logo--v1.png"/>
-  <img src="https://img.icons8.com/fluency/48/null/r-project.png"/>
- </div>
- ->Web Development(Front-end jr):
- <div>
   <img src="https://img.icons8.com/color/48/null/bootstrap.png"/>
   <img src="https://img.icons8.com/color/48/null/react-native.png"/>
   <img src="https://img.icons8.com/fluency/48/null/node-js.png"/>
-  </div>
+ </div>
  <h3>Connect with me:</h3>
  <div align="center">
  <a href = "mailto:lucasdvini01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
