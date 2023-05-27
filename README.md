@@ -12,7 +12,7 @@
  <h3>Studying in this moment:</h3>
  <div>
  <img src="https://img.icons8.com/ios-filled/50/228BE6/c-plus-plus-logo.png"/>
-  
+  <img src="https://github.com/Lvinidevs/Lvinidevs/assets/109772708/69876f10-3c12-42e2-89a4-d0207caf7d78" width=50 >
   <img src="https://img.icons8.com/color/48/null/react-native.png"/>
   <img src="https://img.icons8.com/fluency/48/null/node-js.png"/>
  </div>
