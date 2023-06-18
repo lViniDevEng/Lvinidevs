@@ -13,6 +13,7 @@
  <h3>Studying in this moment:</h3>
  <div>
  <img src="https://img.icons8.com/ios-filled/50/228BE6/c-plus-plus-logo.png"/>
+ <img width="48" height="48" src="https://img.icons8.com/external-flat-juicy-fish/48/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="external-sql-coding-and-development-flat-flat-juicy-fish"/>
   <img src="https://img.icons8.com/fluency/48/null/node-js.png"/>
  </div>
  <h3>Connect with me:</h3>
