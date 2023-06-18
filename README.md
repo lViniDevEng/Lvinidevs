@@ -3,11 +3,12 @@
 
 <h3>Main skills:</h3>
 <div align="start">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
+  <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
-  <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
  </div>
  <h3>Studying in this moment:</h3>
  <div>
