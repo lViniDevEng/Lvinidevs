@@ -5,6 +5,7 @@
 <div align="start">
   <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
   <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
