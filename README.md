@@ -4,6 +4,7 @@
 <h3>Main skills:</h3>
 <div align="start">
   <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
   <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
