@@ -13,6 +13,8 @@
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
+  <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
  </div>
  <h3>Studying in this moment:</h3>
  <div>
