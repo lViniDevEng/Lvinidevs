@@ -22,7 +22,6 @@
  <h3>Studying in this moment:</h3>
  <div>
  <img src="https://img.icons8.com/ios-filled/50/228BE6/c-plus-plus-logo.png"/>
- <img width="48" height="48" src="https://img.icons8.com/color/48/api-settings.png" alt="api-settings"/>
  </div>
  <h3>Connect with me:</h3>
  <div align="center">
