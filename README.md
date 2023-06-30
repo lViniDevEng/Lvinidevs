@@ -1,6 +1,7 @@
 
-
-
+<div>
+  <img src="https://i.postimg.cc/138j2Ycw/C-pia-de-Dani-Martine.gif"></img>
+</div>
 <h3>Main skills:</h3>
 <div align="start">
   <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
